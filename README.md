@@ -1,0 +1,96 @@
+# Claude Code for Non-Technical People: Getting Started
+
+A guide to getting started with Claude Code for non-technical people.
+
+## Tip 0: Setting Up on Windows
+
+I'm more familiar with Mac (and Linux to some extent), so here's my interview with Scott Hanselman (VP of Developer Community at Microsoft) on setting up a Linux-based development environment on Windows.
+
+- Video: [Coding on Windows (and Linux) in 2024?!](https://www.youtube.com/watch?v=MNN--Ml9XJg)
+
+## Tip 1: Basic Terminal Navigation
+
+Before using Claude Code, you need to understand the terminal basics:
+
+- `pwd` - Print working directory (shows where you are)
+- `ls` - List files in the current directory
+- `cd` - Change directory (navigate folders)
+  - `cd folder-name` to go into a folder
+  - `cd ..` to go back up one level
+- `mv` - Move or rename files
+- `cp` - Copy files
+- `Ctrl+C` - Stop/exit running processes
+
+These six concepts are enough to get started.
+
+## Tip 2: Git and GitHub Basics
+
+Version control is essential. Learn to save your work and track changes.
+
+- **Git**: Version control system that tracks changes to your code
+- **GitHub**: Website that hosts Git repositories online
+- **GitHub Desktop**: Visual app that makes Git easier for beginners
+- **gh CLI**: GitHub's command line tool (Claude Code uses this a lot)
+
+Here's my video on open source contribution basics - it covers Git and GitHub fundamentals.
+
+- Video: [How to Get Started with Open Source | A Beginner-Friendly Guide](https://www.youtube.com/watch?v=MkaIrwOlP6Y)
+
+Key concepts:
+- Commits = saving snapshots of your work
+- Branches = working on different versions
+- Push/Pull = syncing with GitHub
+
+## Tip 3: Automating Simple Tasks
+
+Claude Code excels at automating repetitive tasks:
+
+- **Image processing**: Resize, convert formats, batch rename
+- **File conversions**: Convert between file types
+- **Transcription**: Convert audio/video to text (more advanced but possible)
+- **Data processing**: Go through CSV files, organize folders
+
+Just describe what you want to do, and Claude Code will figure out the commands.
+
+## Tip 4: Research
+
+Claude Code is an amazing research tool. Just ask any question:
+
+- Research topics across the web
+- Analyze documents and PDFs
+- Explore public information
+- Get summaries of complex topics
+
+The key is giving it the right context and access to information. It can search the web, read files, and synthesize information from multiple sources.
+
+## Tip 5: Writing
+
+Claude Code makes an excellent writing assistant:
+
+- Give it context about what you're writing
+- Use your voice to dictate detailed instructions
+- Go through drafts line by line together
+- Ask for specific changes and improvements
+
+Works great for blog posts, documentation, LinkedIn posts, emails - anything text-based.
+
+## Tip 6: Getting Outputs Out of Your Terminal
+
+Once Claude Code creates something, you need to get it out:
+
+- **Clipboard**: Ask Claude to use `pbcopy` (Mac) to copy directly
+- **Write to file**: Have it save content to a file, then open in VS Code
+- **Open URLs**: Ask Claude to open links in your browser
+- **GitHub Desktop**: Ask it to open the repo in GitHub Desktop to see changes
+
+## Tip 7: Be Fearless in the Unknown
+
+This is the overarching theme. Don't be intimidated by:
+
+- **Unfamiliar codebases**: Even if it's your company's code, just ask Claude Code to explain it
+- **Long PDF files**: Claude can read and summarize them
+- **Bugs and errors**: Paste the error message and ask for help
+- **New technologies**: Claude Code can guide you through anything
+- **Quick prototyping**: Want to build something? Just describe it and start
+
+The key insight: you don't need to know everything. Claude Code can help you navigate the unknown. Be brave and start exploring.
