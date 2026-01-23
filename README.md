@@ -12,7 +12,20 @@ Once you have your terminal set up, install Claude Code by following the [offici
 
 Most of the following tips work on Mac, Linux, and Windows (with WSL).
 
-## Tip 1: Basic Terminal Navigation
+## Tip 1: Talk to Claude Code with Your Voice
+
+You can communicate much faster with your voice than typing. Using a voice transcription system on your local machine is really helpful for this.
+
+On Mac, some options include:
+- [superwhisper](https://superwhisper.com/)
+- [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
+- [Super Voice Assistant](https://github.com/ykdojo/super-voice-assistant) (open source, I built it with Claude Code)
+
+Even when there are mistakes in the transcription, Claude is smart enough to understand what you're trying to say.
+
+Think of it like communicating with a friend - you can text, but a quick voice message is often faster.
+
+## Tip 2: Basic Terminal Navigation
 
 Before using Claude Code, you need to understand the terminal basics:
 
@@ -27,7 +40,7 @@ Before using Claude Code, you need to understand the terminal basics:
 
 These six concepts are enough to get started.
 
-## Tip 2: Git and GitHub Basics
+## Tip 3: Git and GitHub Basics
 
 Version control is essential. Learn to save your work and track changes.
 
@@ -45,7 +58,7 @@ Key concepts:
 - Branches = working on different versions
 - Push/Pull = syncing with GitHub
 
-## Tip 3: Automating Simple Tasks
+## Tip 4: Automating Simple Tasks
 
 Claude Code excels at automating repetitive tasks:
 
@@ -56,7 +69,7 @@ Claude Code excels at automating repetitive tasks:
 
 Just describe what you want to do, and Claude Code will figure out the commands.
 
-## Tip 4: Research
+## Tip 5: Research
 
 Claude Code is an amazing research tool. Just ask any question:
 
@@ -67,7 +80,7 @@ Claude Code is an amazing research tool. Just ask any question:
 
 The key is giving it the right context and access to information. It can search the web, read files, and synthesize information from multiple sources.
 
-## Tip 5: Writing
+## Tip 6: Writing
 
 Claude Code makes an excellent writing assistant:
 
@@ -78,7 +91,7 @@ Claude Code makes an excellent writing assistant:
 
 Works great for blog posts, documentation, LinkedIn posts, emails - anything text-based.
 
-## Tip 6: Getting Outputs Out of Your Terminal
+## Tip 7: Getting Outputs Out of Your Terminal
 
 Once Claude Code creates something, you need to get it out:
 
@@ -87,7 +100,7 @@ Once Claude Code creates something, you need to get it out:
 - **Open URLs**: Ask Claude to open links in your browser
 - **GitHub Desktop**: Ask it to open the repo in GitHub Desktop to see changes
 
-## Tip 7: Be Fearless in the Unknown
+## Tip 8: Be Fearless in the Unknown
 
 This is the overarching theme. Don't be intimidated by:
 
