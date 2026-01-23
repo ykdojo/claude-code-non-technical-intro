@@ -16,7 +16,7 @@ Most of the following tips work on Mac, Linux, and Windows (with WSL).
 
 You can communicate much faster with your voice than typing. Using a voice transcription system on your local machine is really helpful for this.
 
-On Mac, some options include:
+On Mac, I've tried a few different options:
 - [superwhisper](https://superwhisper.com/)
 - [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
 - [Super Voice Assistant](https://github.com/ykdojo/super-voice-assistant) (open source, I built it with Claude Code)
@@ -111,3 +111,7 @@ This is the overarching theme. Don't be intimidated by:
 - **Quick prototyping**: Want to build something? Just describe it and start
 
 The key insight: you don't need to know everything. Claude Code can help you navigate the unknown. Be brave and start exploring.
+
+---
+
+For more tips to truly become an expert at Claude Code, check out [40+ Claude Code Tips: From Basics to Advanced](https://github.com/ykdojo/claude-code-tips).
