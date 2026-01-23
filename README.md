@@ -8,6 +8,10 @@ I'm more familiar with Mac (and Linux to some extent), so here's my interview wi
 
 - Video: [Coding on Windows (and Linux)](https://www.youtube.com/watch?v=MNN--Ml9XJg)
 
+Once you have your terminal set up, install Claude Code by following the [official setup guide](https://docs.anthropic.com/en/docs/claude-code/setup).
+
+Most of the following tips work on Mac, Linux, and Windows (with WSL).
+
 ## Tip 1: Basic Terminal Navigation
 
 Before using Claude Code, you need to understand the terminal basics:
