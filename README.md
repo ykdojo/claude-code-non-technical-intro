@@ -6,7 +6,7 @@ A guide to getting started with Claude Code for non-technical people.
 
 I'm more familiar with Mac (and Linux to some extent), so here's my interview with Scott Hanselman (VP of Developer Community at Microsoft) on setting up a Linux-based development environment on Windows.
 
-- Video: [Coding on Windows (and Linux) in 2024?!](https://www.youtube.com/watch?v=MNN--Ml9XJg)
+- Video: [Coding on Windows (and Linux)](https://www.youtube.com/watch?v=MNN--Ml9XJg)
 
 ## Tip 1: Basic Terminal Navigation
 
