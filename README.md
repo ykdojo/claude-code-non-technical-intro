@@ -47,7 +47,7 @@ Version control is essential. Learn to save your work and track changes.
 - **Git**: Version control system that tracks changes to your code
 - **GitHub**: Website that hosts Git repositories online
 - **GitHub Desktop**: Visual app that makes Git easier for beginners
-- **gh CLI**: GitHub's command line tool (Claude Code uses this a lot)
+- **gh CLI**: GitHub's command line tool
 
 Here's my video on open source contribution basics - it covers Git and GitHub fundamentals.
 
@@ -131,4 +131,4 @@ The key insight: you don't need to know everything. Claude Code can help you nav
 
 ---
 
-For more tips to truly become an expert at Claude Code, check out [40+ Claude Code Tips: From Basics to Advanced](https://github.com/ykdojo/claude-code-tips).
+For more tips to truly become an expert at Claude Code, check out [45 Claude Code Tips: From Basics to Advanced](https://github.com/ykdojo/claude-code-tips).
