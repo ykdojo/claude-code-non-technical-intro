@@ -101,7 +101,20 @@ Once Claude Code creates something, you need to get it out:
 - **Open URLs**: Ask Claude to open links in your browser
 - **GitHub Desktop**: Ask it to open the repo in GitHub Desktop to see changes
 
-## Tip 8: Be Fearless in the Unknown
+## Tip 8: The Cmd+A / Ctrl+A Trick
+
+Sometimes Claude Code can't access a URL directly - maybe it's a private page, or a site that blocks automated access. The workaround is simple:
+
+1. Open the page in your browser
+2. Select all the content (Cmd+A on Mac, Ctrl+A on Windows/Linux)
+3. Copy it (Cmd+C or Ctrl+C)
+4. Paste it directly into Claude Code
+
+Claude Code is smart enough to work with raw pasted content. This works great for terminal output too - if you have output from another tool or another Claude Code session, just select all, copy, and paste it back.
+
+Some pages don't lend themselves well to select all by default, but there are tricks. For example, with Gmail threads, click Print All to get the print preview (but cancel the actual print). That page shows all emails in the thread expanded, so you can select the entire conversation cleanly.
+
+## Tip 9: Be Fearless in the Unknown
 
 This is the overarching theme. Don't be intimidated by:
 
