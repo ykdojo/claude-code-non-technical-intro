@@ -95,6 +95,7 @@ Works great for blog posts, documentation, LinkedIn posts, emails - anything tex
 
 Once Claude Code creates something, you need to get it out:
 
+- **`/copy` command**: Type `/copy` to copy Claude's last response to your clipboard as markdown
 - **Clipboard**: Ask Claude to use `pbcopy` (Mac) to copy directly
 - **Write to file**: Have it save content to a file, then open in VS Code
 - **Open URLs**: Ask Claude to open links in your browser
