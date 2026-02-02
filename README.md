@@ -57,6 +57,9 @@ Key concepts:
 - Commits = saving snapshots of your work
 - Branches = working on different versions
 - Push/Pull = syncing with GitHub
+- Cloning = downloading a copy of a project from GitHub to your computer
+- Forking = creating your own copy of someone else's project on GitHub (unlike a branch, a fork is a completely separate copy you own)
+- Pull Requests (PRs) = proposing changes to a project for review before they get merged in
 
 ## Tip 4: Automating Simple Tasks
 
